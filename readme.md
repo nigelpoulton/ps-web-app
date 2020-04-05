@@ -2,6 +2,9 @@
 
 Super-simple Node web app for containerization demos in Pluralsight video courses.
 
+**Referenced:**
+- April 2020 Pluralsight blog for #FreeApril
+
 ## Instructions for use
 
 1. Fork the repo 
