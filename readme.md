@@ -1,6 +1,6 @@
-# Test app for demonstrating containerizing web app
+# Test app for containerizing web app
 
-Super-simple Node web app for containerization demos
+Super-simple Node web app for containerization demos in Pluralsight video courses.
 
 ## Instructions for use
 
@@ -8,4 +8,8 @@ Super-simple Node web app for containerization demos
 2. Clone fork locally
 3. Build Docker iamge `docker image build -t <tag> .` from within the root directory of the repo 
 4. Push image to container registry
-5. Run container/Pod using the created image (K8s YML file provided 'web-test.yml')
+5. Run container/Pod using the created image 
+
+## Pre-created image
+
+A publically available pre-created iamge is available for download [here](https://hub.docker.com/repository/docker/nigelpoulton/ps-web)
